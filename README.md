@@ -1,3 +1,5 @@
+My table split the work up so that we are each doing one graph. I will be doing graph 4
+
 # Goal
 
 Let's learn more about our institution while learning more about javascript and interactive information visualization (a.k.a. "infovis" or "dataviz").
